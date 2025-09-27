@@ -11,9 +11,10 @@ Enterprises spend thousands of hours annually on compliance reporting and docume
 - Improve accuracy with consistent AI-enabled outputs
 - Provide executives with faster access to compliance insights and alerts
 
-*(Additional examples available upon request)
----
+- *Additional use cases and examples available upon request*
+  
 ## 🛠 Tools Used
-
+- **A Combination** (Workflow design tools, AI Assistants, Automation platforms)
+- Details on tools to be provided during product demonstration
 
 ---
